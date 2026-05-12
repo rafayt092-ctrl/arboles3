@@ -1,0 +1,14 @@
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\bin\Debug\net8.0\arbolbusqbin.exe
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\bin\Debug\net8.0\arbolbusqbin.deps.json
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\bin\Debug\net8.0\arbolbusqbin.runtimeconfig.json
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\bin\Debug\net8.0\arbolbusqbin.dll
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\bin\Debug\net8.0\arbolbusqbin.pdb
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\arbolbusqbin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\arbolbusqbin.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\arbolbusqbin.AssemblyInfo.cs
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\arbolbusqbin.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\arbolbusqbin.dll
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\refint\arbolbusqbin.dll
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\arbolbusqbin.pdb
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\arbolbusqbin.genruntimeconfig.cache
+C:\Users\UPN\Desktop\ESDAT_14595_S08-master\ESDAT_14595_S08-master\arbolbusqbin\obj\Debug\net8.0\ref\arbolbusqbin.dll
